@@ -1,0 +1,166 @@
+body {
+    background-image: url(assets/halob.jpg);
+    color: white;
+    background-size: cover;
+    background-attachment: fixed;
+    font-weight: 10px;
+}
+
+.background {
+    width: 96%;
+    height: 90%;
+    opacity: 70%;
+    border-radius: 2%;
+    background-color: black;
+    text-size-adjust: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.title {
+    color: white;
+    font-family: "Electrolize", "Arial";
+
+}
+
+.subtitles {
+    text-align: left;
+    color: rgb(218, 53, 196);
+    font-size: 25px;
+    font-family: monospace;
+    text-decoration: underline;
+    line-height: 50px;
+}
+
+.category {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+    line-height: 50px;
+}
+
+.drules {
+    color: rgb(228, 34, 34);
+    line-height: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.prules {
+    color: rgb(30, 255, 0);
+    line-height: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.jcategory {
+    color: whitesmoke;
+}
+
+.rcchat {
+    color: greenyellow;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.conv {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.resultado {
+    color: white;
+}
+
+.unsc {
+    color: green; 
+    text-align: center;
+    font-size: 32px;
+    text-decoration: underline;
+    background-color: transparent;
+}
+
+.tc {
+    position: absolute;
+}
+
+.runsc {
+    font-size: 32px;
+    font-family: "Share Tech Mono", monospace;
+    padding: 20px;
+    color: green;
+}
+
+.frases {
+    text-align: center;
+    font-size: 25px;
+    font-family: "Blinker";
+    padding: 30px;
+}
+
+.covenant {
+    color: violet; 
+    text-align: center;
+    font-size: 32px;
+    text-decoration: underline;
+    background-color: transparent;
+}
+
+.rcovenant {
+    font-size: 32px;
+    font-family: "Share Tech Mono", monospace;
+    padding: 20px;
+    color: blueviolet;
+}
+
+.frasecov {
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 28px;
+    line-height: 50px;
+    text-decoration: underline;
+}
+
+.otros {
+    color: rgb(255, 0, 200);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 28px;
+    line-height: 50px;
+    text-decoration: underline;
+}
+
+.unscc {
+    font-size: 25px;
+    padding: 20px;
+    font-family: "Electrolize";
+    color: green;
+}
+
+.covec {
+    font-size: 25px;
+    padding: 20px;
+    font-family: "Electrolize";
+    color: blueviolet;
+}
+
+.conqt {
+    font-family: "Electrolize";
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    text-decoration: underline;
+    color: crimson;
+}
+
+.rcon {
+    font-family: "Electrolize";
+    font-size: 25px;
+    padding: 20px;
+    color: crimson;
+}
+
+.rankt {
+    font-size: 20px;
+}
+
+.actualizacion {
+    text-align: center;
+    font-size: 32px;
+    padding: 20px;
+    font-family: "Blinker";
+}
